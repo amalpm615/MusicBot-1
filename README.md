@@ -9,6 +9,8 @@ MusicBot is the original Discord music bot written for [Python](https://www.pyth
 
 ![Main](https://i.imgur.com/FWcHtcS.png)
 
+[![Deployoy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Setup
 Setting up the MusicBot is relatively painless - just follow one of the [guides](https://just-some-bots.github.io/MusicBot/). After that, configure the bot to ensure its connection to Discord.
 
